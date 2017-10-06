@@ -1,0 +1,9 @@
+C:\Users\Sistemas\lp2-uniararas-2017\2017-10-05\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Sistemas\lp2-uniararas-2017\2017-10-05\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Sistemas\lp2-uniararas-2017\2017-10-05\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Sistemas\lp2-uniararas-2017\2017-10-05\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Sistemas\lp2-uniararas-2017\2017-10-05\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Sistemas\lp2-uniararas-2017\2017-10-05\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Sistemas\lp2-uniararas-2017\2017-10-05\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Sistemas\lp2-uniararas-2017\2017-10-05\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Sistemas\lp2-uniararas-2017\2017-10-05\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
